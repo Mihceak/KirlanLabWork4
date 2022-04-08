@@ -1,0 +1,2 @@
+total 0
+-rw-r--r-- 1 KiMDor 197609 0 Кві  8 10:51 file_list.txt
